@@ -1,5 +1,5 @@
 modules = ["python-3.10:v18-20230807-322e88b"]
-run = "python CodingTest/Greedy/큰수의법칙.py"
+run = "python CodingTest/Greedy/숫자카드게임.py"
 
 [nix]
 channel = "stable-23_05"
