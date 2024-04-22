@@ -1,0 +1,18 @@
+# repo 위치 확인
+pwd
+
+# 깃 저장소 초기화
+git init
+
+# 깃 저장소에 모든 파일 추가
+git add .
+# 특정 파일만 추가하고 싶을 때
+git add 파일명 (ex: git add file.java)
+# 수정된 파일 전부를 스테이징 영역에 추가
+git add -A
+
+# 커밋 코멘트 추가
+git commit -m '코멘트'
+
+# 깃 저장소에 올리기
+git push origin master
