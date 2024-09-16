@@ -1,5 +1,5 @@
 modules = ["python-3.10:v18-20230807-322e88b"]
-run = "python CodingTest/9ShortestPath/전보.py"
+run = "python CodingTest/Baekjoon/2438.py"
 
 [nix]
 channel = "stable-23_05"
