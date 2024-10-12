@@ -3,7 +3,7 @@ n, m = map(int, input().split())
 
 for row in range(n):
   row = list(map(int, input().split()))
-  A.append(row)10798.
+  A.append(row)
 
 for row in range(n):
   row = list(map(int, input().split()))
