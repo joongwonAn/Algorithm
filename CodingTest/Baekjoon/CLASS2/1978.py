@@ -11,4 +11,5 @@ for num in nums:
     if count == 2:
         result += 1
 
+
 print(result)
