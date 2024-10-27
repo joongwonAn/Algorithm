@@ -11,4 +11,5 @@ for i in range(len):
     num = ord(userList[i]) - 96
     hashResult += num * (R ** i)
 
+
 print(hashResult % M)
